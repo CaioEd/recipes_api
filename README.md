@@ -2,7 +2,7 @@
 
 All commands are in Makefile
 
-### Run  ( API)  ##
+### Run  (API)  ##
 
 ```shell
 1) create virtualenv (pythin -m venv venv)
